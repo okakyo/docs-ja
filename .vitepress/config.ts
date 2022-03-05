@@ -118,7 +118,7 @@ export const sidebar = {
       text: 'Essentials',
       items: [
         {
-          text: 'Creating an Application',
+          text: 'Vue アプリケーションの作成',
           link: '/guide/essentials/application'
         },
         {
